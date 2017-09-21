@@ -2,7 +2,7 @@
   "name": "most-request-animation-frame",
   "description": "Create streams that emits every requestAnimationFrame",
   "repository": "https://github.com/TylorS/most-request-animation-frame",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "typings": "lib/index.d.ts",
