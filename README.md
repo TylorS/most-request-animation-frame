@@ -1,4 +1,4 @@
-# most-request-animation-frame -- 0.0.0
+# most-request-animation-frame -- 1.0.0
 
 Create streams that emits every requestAnimationFrame
 
